@@ -1,0 +1,30 @@
+body {
+    background-color: #faf9f9;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier Prime', monospace;
+}
+
+#clockDiv {
+    color: #cccbcb;
+    margin-top: 40vh;
+    text-align: center;
+    font-size: 8em;
+}
+
+#hours {
+    color: #3559f8;
+}
+
+#minutes {
+    color: #28f05a;
+}
+
+#seconds {
+    color: #ff4242;
+}
+
+#meridiem {
+    color: #ff793b;
+    margin-left: 30px;
+}
